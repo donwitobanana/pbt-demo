@@ -24,5 +24,6 @@ repos:
     hooks:
     - id: test
       name: test
+      stages: [push]
       language: system
       entry: "make test"
