@@ -1,7 +1,7 @@
 
 install:
 	poetry install -E uvicorn
-	pre-commit install
+	pre-commit install --hook-type pre-commit --hook-type pre-push
 
 hooks:
 	pre-commit run --all-files
