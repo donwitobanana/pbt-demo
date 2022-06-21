@@ -643,7 +643,7 @@ uvicorn = ["uvicorn"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "23559b78cea68caa551d8d3fcfdda13de9b063b98b2370e8fc8957e721c5dbb4"
+content-hash = "c4ee3e1ffeae5a222159ef94b5b781517a966817995a42144cd8e4a8688bf8b3"
 
 [metadata.files]
 anyio = [
